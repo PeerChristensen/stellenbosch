@@ -1,4 +1,4 @@
-
+#' ggplot colour palettes inspired by the colours of Stellenbosch and the Western Cape
 #' @export
 #' @import ggplot2
 #' @import pals
