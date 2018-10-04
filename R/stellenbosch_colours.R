@@ -100,5 +100,3 @@ scale_fill_stellenbosch <- function(palette = "main", discrete = TRUE, reverse =
   }
 }
 
-
-
